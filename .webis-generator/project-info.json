@@ -1,8 +1,36 @@
 {
   "projectName": "חנות-בגדים-אלפא-5180",
   "businessName": "חנות בגדים אלפא",
-  "created": "2025-04-10T22:46:20.865Z",
-  "status": "initialized",
-  "progress": 0,
-  "components": []
+  "description": "אנחנו חנות בגדים מוביל בתחום הבידור עם ניסיון של שנים רבות. אנחנו מתמחים במתן שירות מקצועי ואיכותי ללקוחותינו.",
+  "created": "2025-04-10T22:46:41.776Z",
+  "generatedWith": "webis-generator",
+  "repoName": "webis-site-chnvt-bgdym-alpa-1744325180820",
+  "formData": {
+    "businessName": "חנות בגדים אלפא",
+    "businessType": "חנות בגדים",
+    "industry": "טכנולוגיה",
+    "businessSize": "large",
+    "description": "אנחנו חנות בגדים מוביל בתחום הבידור עם ניסיון של שנים רבות. אנחנו מתמחים במתן שירות מקצועי ואיכותי ללקוחותינו.",
+    "language": "he",
+    "primaryColor": "#4ECDC4",
+    "secondaryColor": "#9B786F",
+    "typographyStyle": "modern",
+    "animationPreference": "moderate",
+    "headline": "חנות בגדים מוביל בישראל",
+    "descriptionText": "חווית לקוח מושלמת בכל ביקור",
+    "ctaText": "קבע תור עכשיו",
+    "formFields": "שם, טלפון, אימייל, הודעה",
+    "includeTestimonials": false,
+    "includeFAQ": false,
+    "hasProducts": true,
+    "hasServices": true,
+    "hasPortfolio": true,
+    "needsBookingSystem": false,
+    "metaDescription": "חנות בגדים מוביל המספק שירות מקצועי ואיכותי. הזמינו תור עוד היום!",
+    "metaKeywords": "חנות בגדים, שירות, איכות, מקצועיות, ישראל",
+    "designStyles": [
+      "neumorphic",
+      "glassmorphism"
+    ]
+  }
 }
